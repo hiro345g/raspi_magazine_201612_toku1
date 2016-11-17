@@ -5,7 +5,7 @@ from gpiozero import LED, MotionSensor
 from time import sleep
 
 MOTION_SENSOR_PIN = 21
-LED_PIN = 17
+LED_PIN = 4
 WAIT_TIME = 1
 
 
